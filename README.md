@@ -10,7 +10,7 @@ npm install --save-dev
 ```bash
 npm run build
 ```
-- Start a server which compiles as you savem and is listening on http://localhost:8080 (default)
+- Starts a webpack development server listening on http://localhost:8080 (default)
 ```bash 
 npm start
 ```
